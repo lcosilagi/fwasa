@@ -149,7 +149,7 @@ with open(arqi,'r') as fi, open(arqr,'w') as fr:
 
 # Imprimimos na tela o número total de objetos encontrados
 print('\n\n\t '+'-'*55)
-print(f'\t  Total de [{hcont}] objeto(s) host(s) processado(s)')
+print(f'\t  Total de [{hcont}] objeto(s) host(s) processado(s).')
 print(f'\t  Total de [{scont}] objeto(s) subnet(s) processado(s).')
 print(f'\t  Total de [{rcont}] objeto(s) range(s) processado(s).')
 print('\t '+'-'*55+'\n')
